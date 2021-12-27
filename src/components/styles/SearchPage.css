@@ -15,7 +15,7 @@
     margin-left: 10px;
 }
 
-.searchPage__filter > hr{
+.searchPage__filter__hr {
     height: 1px;
     border: 0;
     background-color: lightgray;
